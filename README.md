@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jitendarvyas1991
+- 👋 Hi, I’m @Jitendar Nath Vyas
 - 👀 I’m interested in Datascience, Machine learning, Deep learning.
 - 🌱 I’m currently looking for job in Data science field .
 - 💞️ I’m looking to collaborate on various data science projects

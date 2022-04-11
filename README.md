@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jitendarvyas1991
-- 👀 I’m interested in Datascience, Machine learning, Big data, Deep learning.
+- 👀 I’m interested in Datascience, Machine learning, Deep learning.
 - 🌱 I’m currently learning Datascience.
 - 💞️ I’m looking to collaborate on various data science projects
 - 📫 How to reach me j.nath.vyas@gmail.com
